@@ -224,8 +224,8 @@ nav a:hover {
      
 }
 
-/* bigshot one font */
-/* @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
+bigshot one font */
+ @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
 
 body,html{margin:0;padding:0;height:100%;}
 body{
@@ -237,7 +237,7 @@ body{
   justify-content:center;
   align-items:center;
 }
-svg{font-weight:bold;max-width:600px;height:100%;} */
+svg{font-weight:bold;max-width:600px;height:100%;}
 
 @keyframes pulse {
 
