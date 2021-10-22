@@ -11,12 +11,15 @@
     }
 
     .content {
-        height: 200vh;
-        background-color: #333;
+        /* height: 200vh;
+        background-color: rgb(97, 30, 30);
         background-blend-mode: multiply;
         background-size: cover;
-        display: grid;
-        place-items: center;
+        display: grid; */
+        /* place-items: center; */
+    }
+    h2 {
+     
     }
     header {
        background: var(--background);
@@ -186,7 +189,7 @@ nav a:hover {
         margin: auto;
     }
     
-    .stripe-text {
+    /* .stripe-text {
         position: relative;
         font-size: 110px;
         text-transform: uppercase;
@@ -249,4 +252,4 @@ svg{font-weight:bold;max-width:600px;height:100%;}
     }
     
 }
-}
+} */
